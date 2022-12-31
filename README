@@ -25,12 +25,3 @@ MMP = ** ; # Resolution ratio, which represents the actual size of a pixel in mi
 After setting the parameters, ```run``` matlab software, and the extracted values will be stored in the ```FEA``` of the parameter list in order.
 
 ## Citation
-
-```
-@inproceedings{Feature extraction program,
-  title={Rapid and label-free detection of gastrointestinal stromal tumor via a combination of two-photon microscopy and imaging analysis},
-  author={Lianhuang Li, Xingxin Huang, Shichao Zhang, Zhenlin Zhan, Deyong Kang, Guoxian Guan, Shuoyu Xu, Yongjian Zhou, Jianxin Chen },
-  booktitle={BMC},
-  year={2022}
-}
-```
