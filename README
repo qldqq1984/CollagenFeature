@@ -4,5 +4,4 @@ IGNN (IGNNE) is a graph neural network-based interpretable machine learning mode
 * Computer with windows 7 or windows 10 OS  
 * NVIDIA GPU card with Windows x86_64 Driver Version >= 418.96
 # Dependency and installation 
-* CUDA >= 10.1.105 
-* CUDNN >= 7.6.0  
+
